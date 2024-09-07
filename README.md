@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Ivan, Frontend developer 
+<p>Welcome to my page! </br> I'm Ivan
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
